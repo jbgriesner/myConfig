@@ -1,0 +1,206 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Marks:
+'H
+	/home/jb/
+	..
+1641465393
+'b
+	/home/jb/bin/
+	..
+1641465393
+'h
+	/home/jb/
+	..
+1641465393
+
+# Bookmarks:
+
+# TUI:
+al
+q1
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/home/jb/ved/incubator-teaclave
+	docker
+12
+d/home/jb/ved/incubator-teaclave/docker
+	docker-compose-aesm-vol.override.yml
+5
+d/home/jb/ved/incubator-teaclave
+	CONTRIBUTING.md
+38
+d/home/jb
+	.vimrc
+25
+d/home/jb/ved/incubator-teaclave
+	worker
+28
+d/home/jb/.config/vifm
+	colors
+1
+d/home/jb/.config/vifm/colors
+	..
+0
+d/home/jb/.config/vifm
+	vifm-help.txt
+3
+d/home/jb/.config
+	vifm
+3
+d/home/jb
+	.config
+5
+d/home/jb/.config
+	vifm
+3
+d/home/jb/.config/vifm
+	vifm-help.txt
+3
+d/home/jb/.config
+	vifm
+3
+d/home/jb
+	.viminfo
+24
+d/home/jb/ved/incubator-teaclave/examples/python
+	builtin_face_detection.py
+7
+d/home/jb/ved/incubator-teaclave/examples
+	python
+2
+d/home/jb/ved/incubator-teaclave/examples/python
+	builtin_face_detection.py
+7
+d/home/jb/ved/incubator-teaclave/examples
+	python
+2
+d/home/jb/ved/incubator-teaclave
+	examples
+9
+d/home/jb/ved/incubator-teaclave/examples
+	rust
+3
+d/home/jb/ved/incubator-teaclave/examples/rust
+	builtin_echo
+1
+d/home/jb/ved/incubator-teaclave/examples/rust/builtin_echo
+	src
+1
+d/home/jb/ved/incubator-teaclave/examples/rust/builtin_echo/src
+	main.rs
+1
+d/home/jb/ved/incubator-teaclave/examples/rust/builtin_echo
+	src
+1
+d/home/jb/ved/incubator-teaclave/examples/rust
+	builtin_echo
+1
+d/home/jb/ved/incubator-teaclave/examples
+	rust
+3
+d/home/jb/ved/incubator-teaclave
+	function
+12
+d/home/jb/ved/incubator-teaclave/function
+	src
+1
+d/home/jb/ved/incubator-teaclave/function/src
+	echo.rs
+1
+d/home/jb/incubator-teaclave
+	binder
+4
+d/home/jb
+	.landscape
+8
+d/home/jb/ved
+	sgx_sdk
+2
+d/home/jb
+	ved
+15
+d/home/jb/ved
+	incubator-teaclave
+1
+d/home/jb/ved/incubator-teaclave
+	tests
+2
+d/home/jb/ved
+	incubator-teaclave
+1
+d/home/jb
+	ved
+15
+d/home/jb/ved
+	incubator-teaclave
+1
+d/home/jb/ved/incubator-teaclave
+	tests
+2
+d/home/jb/ved/incubator-teaclave/tests
+	..
+0
+d/home/jb/ved/incubator-teaclave
+	docker
+1
+d/home/jb/ved/incubator-teaclave/docker
+	runtime.config.toml
+1
+d/home/jb/ved/incubator-teaclave
+	docker
+1
+d/home/jb/ved
+	incubator-teaclave
+1
+d/home/jb
+	ved
+15
+d/home/jb/incubator-teaclave
+	docker
+12
+d/home/jb/incubator-teaclave/docker
+	README.md
+1
+d
+
+# Right window history (oldest to newest):
+D/home/jb
+	..
+0
+D
+
+# Command line history (oldest to newest):
+:q
+:qa
+:colorscheme gruvbox
+:colorscheme Gruvbox
+
+# Search history (oldest to newest):
+/zsh
+
+# Prompt history (oldest to newest):
+
+# Local filter history (oldest to newest):
+
+# Registers:
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+
+# State:
+f
+i1
+[.0
+[F
+F
+I1
+].1
+]F
+s0
